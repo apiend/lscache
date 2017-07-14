@@ -1,0 +1,22 @@
+{
+    "name": "lscache",
+    "version": "1.0.0",
+    "description": "localStorage caches",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/apiend/lscache.git"
+    },
+    "keywords": [
+        "cache"
+    ],
+    "author": "apiend",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/apiend/lscache/issues"
+    },
+    "homepage": "https://github.com/apiend/lscache#readme"
+}
